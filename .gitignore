@@ -1,0 +1,12 @@
+*.idea
+*.kdev4
+*.sw?
+*.pyc
+*.log
+*.wpr
+*.wpu
+*~
+*.mine
+*.out
+.cache
+*.orig
